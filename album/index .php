@@ -194,7 +194,7 @@
         <h1 class="fw-light">BIBI GLOW</h1>
         <p class="lead text-body-secondary">Beauty with Art.</p>
         <p>
-          <a href="#" class="btn btn-outline-primary">เข้าสู่ระบบ</a>
+          <a href="email.html" class="btn btn-outline-primary">เข้าสู่ระบบ</a>
           <a href="member.html" class="btn btn-outline-warning">สมัครสมาชิก</a>             </p>
       </div>
     </div>
