@@ -195,7 +195,8 @@
         <p class="lead text-body-secondary">Beauty with Art.</p>
         <p>
           <a href="email.html" class="btn btn-outline-primary">เข้าสู่ระบบ</a>
-          <a href="member.html" class="btn btn-outline-warning">สมัครสมาชิก</a>             </p>
+          <a href="member.html" class="btn btn-outline-warning">สมัครสมาชิก</a>
+	 <a href="about.html" class="btn btn-outline-warning">สมาชิกในกลุ่ม</a></p>
       </div>
     </div>
   </section>
