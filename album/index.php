@@ -165,7 +165,7 @@
         <div class="col-sm-4 offset-md-1 py-4">
           <h4>Contact</h4>
           <ul class="list-unstyled">
-            <li><a href="#" class="text-white">Follow on Twitter</a></li>
+            <li><a href="../home1/" class="text-white">home1</a></li>
             <li><a href="#" class="text-white">Like on Facebook</a></li>
             <li><a href="#" class="text-white">Email me</a></li>
           </ul>
@@ -194,9 +194,10 @@
         <h1 class="fw-light">BIBI GLOW</h1>
         <p class="lead text-body-secondary">Beauty with Art.</p>
         <p>
-          <a href="email.html" class="btn btn-outline-primary">เข้าสู่ระบบ</a>
-          <a href="member.html" class="btn btn-outline-warning">สมัครสมาชิก</a>
-	 <a href="about.html" class="btn btn-outline-warning">สมาชิกในกลุ่ม</a></p>
+        <a href="#" class="btn btn-outline-primary">สินค้าทั้งหมด</a>
+        <a href="../album/insert2.php" class="btn btn-outline-primary">เพิ่มสินค้า</a>
+          <a href="../home1/" class="btn btn-outline-danger">ออกจากระบบ</a>             
+        </p>
       </div>
     </div>
   </section>
